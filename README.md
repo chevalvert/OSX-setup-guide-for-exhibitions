@@ -1,17 +1,17 @@
 # OSX setup guide for exhibitions
 
 + **[System preferences](#system-preferences)**
-  + **[Login & user](#)**
+  + **[Login & user](#login--user)**
     + [limit privileges](#limit-privileges)
-    + [automatic login](#autmatic-login)
+    + [automatic login](#automatic-login)
     + [start apps on login](#start-apps-on-login)
   + **[Energy](#energy)**
     + [prevent display from turning off](#prevent-display-from-turning-off)
-    + [prevent hard disk(s) from sleeping](#)
-    + [scheduled wake / sleep](#)
+    + [prevent hard disk(s) from sleeping](#prevent-hard-disks-from-sleeping)
+    + [scheduled wake / sleep](#scheduled-wake--sleep)
     + [handle power failure](#handle-power-failure)
     + [prevent screensaver from turning on](#prevent-screensaver-from-turning-on)
-  + **[Notifications & updates](#)**
+  + **[Notifications & updates](#notifications--updates)**
     + [prevent notifications](#prevent-notifications)
     + [prevent updates](#prevent-updates)
   + **[UI](#ui)**
