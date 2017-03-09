@@ -86,7 +86,7 @@
 + open _Notifications_
 + set _Turn on Do Not Disturb_ to `from` to `00:00` from `23:59`
 
-### disable bluetooth keyboard/mouse auto-assistant
+#### disable bluetooth keyboard/mouse auto-assistant
 + open _Bluetooth_
 + go to _Advanced..._
 + set _Open Bluetooth Setup Assistant at startup if no keyboard is detected_ to `false`
