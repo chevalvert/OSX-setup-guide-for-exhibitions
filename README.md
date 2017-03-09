@@ -13,7 +13,7 @@
     + [prevent screensaver from turning on](#prevent-screensaver-from-turning-on)
   + **[Notifications & updates](#notifications--updates)**
     + [prevent notifications](#prevent-notifications)
-    + [disable bluetooth keyboard/mouse auto-assistant](#disable-bluetooth-keyboard--mouse-auto--assitant)
+    + [disable bluetooth keyboard/mouse auto-assistant](#disable-bluetooth-keyboardmouse-auto-assistant)
     + [prevent updates](#prevent-updates)
   + **[UI](#ui)**
     + [autohide menu bar](#autohide-menu-bar)
