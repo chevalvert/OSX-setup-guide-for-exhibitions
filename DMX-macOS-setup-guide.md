@@ -1,6 +1,12 @@
-
-
 ## Table of contents
+- [Table of contents](#table-of-contents)
+- [ArtNET - DMX over Ethernet setup](#artnet---dmx-over-ethernet-setup)
+  * [Hardware](#hardware)
+  * [Software](#software)
+- [Hardware Wiring](#hardware-wiring)
+- [Network settings](#network-settings)
+- [eDMX configuration](#edmx-configuration)
+- [DMX LED output with madlight](#dmx-led-output-with-madlight)
 
 ## ArtNET - DMX over Ethernet setup
 
