@@ -1,5 +1,4 @@
 ## Table of contents
-- [Table of contents](#table-of-contents)
 - [ArtNET - DMX over Ethernet setup](#artnet---dmx-over-ethernet-setup)
   * [Hardware](#hardware)
   * [Software](#software)
